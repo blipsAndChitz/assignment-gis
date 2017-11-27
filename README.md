@@ -20,8 +20,8 @@ Build a map-based application, which lets the user see geo-based data on a map a
 
 Fill in (either in English, or in Slovak):
 
-**Application description**: `<fill in>`
+**Application description**: `FairView - aplikácia pre vizualizáciu rozných ukazovateľov(hluk, znečistenie vzduchu...) pre danú adresu`
 
-**Data source**: `<fill in>`
+**Data source**: `OpenStreetMaps`
 
-**Technologies used**: `<fill in>`
+**Technologies used**: `NodeJS, JS`
